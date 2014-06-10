@@ -17,7 +17,12 @@
   },
   "homepage": "https://github.com/mrap/node-stream-transcoder",
   "dependencies": {
+    "body-parser": "^1.3.0",
+    "ejs": "^1.0.0",
+    "express": "^4.4.2",
     "multiparty": "^3.2.8",
+    "npm": "^1.4.14",
+    "stream-body-parser": "0.0.1",
     "stream-transcoder": "0.0.3"
   }
 }
